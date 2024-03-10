@@ -1,0 +1,4 @@
+✔	Creati un fisier js.
+✔	Creati o functie care va calcula suma a 3 cifre si va intoarce radicalul ei.
+✔	Creati o functie care primeste un string si de fiecare data cand este chemata, va intoarce o litera aleatoriu din string.
+✔	Creati o functie care primeste 2 stringuri si le intoarce concatinate.
